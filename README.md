@@ -1,2 +1,2 @@
 # excel-lita-document
-This is where i documented my excel project while learning data analysis with the incubator hub
+This is where I documented my Excel project while learning data analysis with the incubator hub
